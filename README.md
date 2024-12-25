@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tilak-mandal
 - 👀 I’m interested in full stack web development,cybersecurity and app development.
-- 🌱 I’m currently learning python
 
 <!---
 Tilak-mandal/Tilak-mandal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
